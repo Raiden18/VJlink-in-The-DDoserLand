@@ -1,2 +1,2 @@
 # VJlink-in-The-DDoserLand
-The simle game with first Framework
+The simple game with first Framework
