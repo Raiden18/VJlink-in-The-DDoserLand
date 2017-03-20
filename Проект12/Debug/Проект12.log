@@ -1,0 +1,52 @@
+﻿Построение начато 18.02.2016 17:06:41.
+     1>Проект "C:\Users\1\Documents\Visual Studio 2012\Projects\VjLink_V_Strane_Dudoserov\Проект12\Проект12.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Games\SFML-2.2\include" /ZI /nologo /W3 /WX- /Od /Oy- /D SFML_DYNAMIC /D _UNICODE /D UNICODE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Games.cpp
+         Games.cpp
+     1>c:\users\1\documents\visual studio 2012\projects\vjlink_v_strane_dudoserov\проект12\level.h(60): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\1\documents\visual studio 2012\projects\vjlink_v_strane_dudoserov\проект12\level.h(144): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\1\documents\visual studio 2012\projects\vjlink_v_strane_dudoserov\проект12\level.h(145): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\1\documents\visual studio 2012\projects\vjlink_v_strane_dudoserov\проект12\level.h(185): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\1\documents\visual studio 2012\projects\vjlink_v_strane_dudoserov\проект12\level.h(242): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\1\documents\visual studio 2012\projects\vjlink_v_strane_dudoserov\проект12\level.h(263): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\1\documents\visual studio 2012\projects\vjlink_v_strane_dudoserov\проект12\level.h(264): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\1\documents\visual studio 2012\projects\vjlink_v_strane_dudoserov\проект12\level.h(265): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\1\documents\visual studio 2012\projects\vjlink_v_strane_dudoserov\проект12\level.h(266): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\1\documents\visual studio 2012\projects\vjlink_v_strane_dudoserov\проект12\level.h(309): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\1\documents\visual studio 2012\projects\vjlink_v_strane_dudoserov\проект12\level.h(318): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\1\documents\visual studio 2012\projects\vjlink_v_strane_dudoserov\проект12\level.h(340): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\1\documents\visual studio 2012\projects\vjlink_v_strane_dudoserov\проект12\level.h(341): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\1\documents\visual studio 2012\projects\vjlink_v_strane_dudoserov\проект12\entity.h(46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\1\documents\visual studio 2012\projects\vjlink_v_strane_dudoserov\проект12\entity.h(51): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\1\documents\visual studio 2012\projects\vjlink_v_strane_dudoserov\проект12\player.h(24): warning C4551: в вызове функции отсутствует список аргументов
+     1>c:\users\1\documents\visual studio 2012\projects\vjlink_v_strane_dudoserov\проект12\player.h(26): warning C4305: =: усечение из "double" к "float"
+     1>c:\users\1\documents\visual studio 2012\projects\vjlink_v_strane_dudoserov\проект12\player.h(27): warning C4305: =: усечение из "double" к "float"
+     1>c:\users\1\documents\visual studio 2012\projects\vjlink_v_strane_dudoserov\проект12\player.h(31): warning C4305: =: усечение из "double" к "float"
+     1>c:\users\1\documents\visual studio 2012\projects\vjlink_v_strane_dudoserov\проект12\player.h(42): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\1\documents\visual studio 2012\projects\vjlink_v_strane_dudoserov\проект12\player.h(62): warning C4305: =: усечение из "double" к "float"
+     1>c:\users\1\documents\visual studio 2012\projects\vjlink_v_strane_dudoserov\проект12\player.h(68): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\1\documents\visual studio 2012\projects\vjlink_v_strane_dudoserov\проект12\player.h(75): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\1\documents\visual studio 2012\projects\vjlink_v_strane_dudoserov\проект12\player.h(92): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\1\documents\visual studio 2012\projects\vjlink_v_strane_dudoserov\проект12\arm.h(31): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\1\documents\visual studio 2012\projects\vjlink_v_strane_dudoserov\проект12\arm.h(40): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\1\documents\visual studio 2012\projects\vjlink_v_strane_dudoserov\проект12\cursor.h(26): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\1\documents\visual studio 2012\projects\vjlink_v_strane_dudoserov\проект12\bullet.h(21): warning C4305: =: усечение из "double" к "float"
+     1>c:\users\1\documents\visual studio 2012\projects\vjlink_v_strane_dudoserov\проект12\bullet.h(24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\1\documents\visual studio 2012\projects\vjlink_v_strane_dudoserov\проект12\bullet.h(34): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\1\documents\visual studio 2012\projects\vjlink_v_strane_dudoserov\проект12\bullet.h(35): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\1\documents\visual studio 2012\projects\vjlink_v_strane_dudoserov\проект12\bullet.h(42): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\1\documents\visual studio 2012\projects\vjlink_v_strane_dudoserov\проект12\games.cpp(76): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+     1>c:\users\1\documents\visual studio 2012\projects\vjlink_v_strane_dudoserov\проект12\games.cpp(90): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\1\documents\visual studio 2012\projects\vjlink_v_strane_dudoserov\проект12\level.h(312): warning C4715: Level::GetObject: значение возвращается не при всех путях выполнения
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\1\Documents\Visual Studio 2012\Projects\VjLink_V_Strane_Dudoserov\Debug\Проект12.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Games\SFML-2.2\lib" "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-system-d.lib" "sfml-audio-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\1\Documents\Visual Studio 2012\Projects\VjLink_V_Strane_Dudoserov\Debug\Проект12.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\1\Documents\Visual Studio 2012\Projects\VjLink_V_Strane_Dudoserov\Debug\Проект12.lib" /MACHINE:X86 Debug\Games.obj
+         Debug\tinystr.obj
+         Debug\tinyxml.obj
+         Debug\tinyxmlerror.obj
+         Debug\tinyxmlparser.obj
+         Проект12.vcxproj -> C:\Users\1\Documents\Visual Studio 2012\Projects\VjLink_V_Strane_Dudoserov\Debug\Проект12.exe
+     1>Построение проекта "C:\Users\1\Documents\Visual Studio 2012\Projects\VjLink_V_Strane_Dudoserov\Проект12\Проект12.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:02.14
